@@ -4,7 +4,6 @@ We reserve the right to slightly update wording and correct mistakes without req
 Current Version: 2025-V7
 Updated: 15.09.2025
 
-# Alpha Blend Interactive Terms of Service
 # ChilloutVR Terms of Service / Terms of Usage
 
 # Introduction
@@ -16,7 +15,6 @@ All other instance types are considered private instances.
 For moderation inquiries or ToS questions, reach out to moderation@chilloutvr.net.
 For general support requests, technical issues, or any other inquiries, reach out to team@chilloutvr.net.
 
-# Platform requirements
 # The Platform
 To play ChilloutVR and/or use related services, you must be at least 13 years of age or older.
 Ban evasion is not permitted. You may appeal your bans using the above-mentioned support contact or - if available - on the community hub. Any ban evasion, regardless of the ban duration or time of account creation, will result in a permanent ban of all accounts involved without appeal.
@@ -35,12 +33,11 @@ You may only access adult-only and explicit content within the game if you have 
 You may never gain access to [adult-only/explicit](content-classification.md) parts of the game if you have not met the requirement defined in 2.6. Doing so may result in a permanent suspension with no option to appeal. This also applies to the Steam Mature Content Access DLC.
 Individuals or groups hosting any [adult-only/explicit](content-classification.md) events are required to verify the age of all parties involved before allowing them to participate. Failure to verify the age of members, or take appropriate action in cases where falsified information has been provided, may lead to the host/group owner and/or the non-verified user being permanently suspended.
 You may never bypass mature content limitations in any way whatsoever.
-Uploaded content may never contain [adult-only/explicit](content-classification.md) materials referencing underaged characters (canonically, realistically or visually under 18 years of age).
+Uploaded content may never contain any CSAM.
 You may never play any form of [adult-only/explicit](content-classification.md) material on a video player in an instance considered to be public.
 You may never play disturbing videos, including but not limited to gore and cruelty on a video player.
 You may never encourage, organize, or participate in actions intended to target, harass, or ostracize another user. This includes, but is not limited to; the creation, distribution, or promotion of so-called "witch hunts", "blacklists", "ban-on-sight lists", or similar efforts to incite hostility or coordinated negative treatment against a user.
 
-# Uploading and publishing content
 # Creating, Uploading and Publishing Content
 When creating content for our platform - regardless of content type - all rules regarding social interactions (§2.X) also apply.
 All content you upload to ChilloutVR must apply to one of the following:
@@ -73,7 +70,6 @@ You may never falsely claim to be friends with someone you are not affiliated wi
 You may never falsely claim to be someone you are not. This includes but is not limited to other users, competitors, celebrities, influencers, and any other individuals or groups.
 All provisions of §3 apply equally to claims made about other users.
 
-# Usage of our products and services
 # Usage of our Products and Services
 You may never abuse any sort of system malfunction, exploit, loophole or bug in any of our products or services.
 All security and integrity concerns must immediately be reported via email.
@@ -83,7 +79,6 @@ Extracting, using and/or publishing any of our code is strictly forbidden and wi
 You may never use code obtained by decompiling our products to create derivative work or other products from it without explicit written permission. We do not allow any of our work to be implemented in external third-party products.
 Exceptions are permitted so long as extracted code is necessary for modification and patching of our product, specifically ChilloutVR, that adhere to all terms outlined in section Modding Our Game.
 
-# Modding our games
 # Modding Our Game
 Mods knowingly degrading the experience for other players as well as those intentionally replacing or removing core features of the base game are not permitted.
 When overriding parts of the game's code, you must include a disclaimer in the released source code or description of your mod indicating that parts of the modification's code may be/are owned by the ChilloutVR team if applicable.
@@ -92,27 +87,21 @@ You may never use or create a modification with the purpose of bypassing limitat
 You may never use or create modifications with the intent or functionality to cheat in game worlds or game modes.
 By installing a mod loader and/or corresponding modifications or plugins, you acknowledge that the ChilloutVR team is not responsible for any harm or damage caused by the modifications or the mod loader installed by the user.
 
-# Third party applications or sites
 # Third-party Applications and Sites
 Third-party applications or sites that use or reference our services are permitted, but are also required to implement the following text somewhere:
 
-# For websites
 # For Websites
 "This website is not run by or affiliated with ChilloutVR or the ChilloutVR team in any way."
 
-# For applications
 # For Applications
 "This application is not created by or affiliated with ChilloutVR or the ChilloutVR team in any way."
 
-# For communities
 # For Communities
 "This community is not created by or affiliated with ChilloutVR or the ChilloutVR team in any way."
 
-# For mods
 # For Mods
 "This modification is unofficial and not supported by ChilloutVR or the ChilloutVR team. Using this modification might cause issues with performance, security or stability of the game."
 
-# Account management
 # Account Management
 You may appeal applicable suspensions by sending us an email at the moderation email at the top of the terms, or - if available - by using the appeal functionality in the community hub.
 In accordance with GDPR regulations, we offer you collected data packages and account deletions. This can be requested in your account settings on the community hub.
@@ -122,7 +111,6 @@ All moderation bans are displayed on a user's public profile and are visible to 
 Moderation warnings are not publicly visible.
 The ChilloutVR team does not offer refunds for any purchased product or subscription payments in the case of account deletion or suspension.
 
-# Commercial usage
 # Commercial Usage
 You may never commercialize your use of the platform by monetizing your content or yourself by offering products, services or selling access to content or events without explicit written permission from ChilloutVR or the ChilloutVR team if you exceed a yearly threshold of €2.500,00 in gross revenue. If your gross revenue exceeds the mentioned threshold, you can request permission by mailing us at the address above.
 Any sort of corporate usage of the platform requires an enterprise license agreement to be formed. In this case, you must contact us after evaluating the platform but before starting any sort of business operation on it.
