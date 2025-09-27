@@ -1,6 +1,7 @@
 # Rules, guidelines & ToS
 With registering an account in our community hub and / or playing our games you acknowledge and accept the followingly stated rules and guidelines to their fullest.
-We reserve full right to update the terms of service at any time without any need for notification.
+We reserve full rights to include minor changes to the terms of service without requiring any sort of announcement.
+Bigger changes to the terms of service will be announced and users will be required to accept the changes in order to continue to use our services.
 
 # Alpha Blend Interactive Terms of Service
 
@@ -24,10 +25,10 @@ You are not allowed to organize, found and / or be a part of hate groups or anyt
 You are not allowed to evade restrictions or suspensions in any way.
 All kinds of sexual acts in public instances are forbidden and will lead to suspension. Friends of Friends is considered public. Refer to private lobby types instead.
 To use the 18+/NSFW marked parts of our game, you have to be at least 18 years old. If the age of majority in your country of residence is above 18, then you will have to match or exceed the age of majority in your country of residence to be allowed to use the 18+/NSFW/AdultOnly marked parts of / content in our games.
-NSFW content (avatars, worlds, scripts, game-modes and more) as well as events and groups must always do their best to prevent children from seeing / using them. For the case of events and groups, relying on the NSFW access DLC is not enough and further manual checks are required.
+NSFW content (their creators), groups, organizations, events or any of the kind are required to use their resources in order to prevent children from seeing / using / attending them. For the case of events and groups, relying on the NSFW access DLC is not enough, and further manual checks are required.
 You may never abuse issues / bugs in our systems to bypass NSFW limitations. This includes but is not limited to displaying content in public that is not meant to be displayed in public. (Private NSFW world portals in public worlds, Creating public instances for NSFW events)
 You may never knowingly mark yourself as adult while not having reached the age of majority of your country of residence. Doing so will result in a permanent suspension with no option to appeal. This also applies to the Steam Mature Content Access DLC.
-Uploaded content may never contain NSFW materials or references to underaged characters independent of if they are fictional or real. Canonical age (e.g. 9000 year old girl) does not count to invalidate this rule.
+Uploaded content may never contain NSFW materials or references to underaged characters (characters under the age of majority) independent of if they are fictional or real. Canonical age (e.g. 9000 year old girl) does not count to invalidate this rule.
 Adult-Only events must be moderated by the event host or event moderators. Event moderators have to ensure that no person under the corresponding age of majority is able to attend.
 
 # Uploading and publishing content
@@ -40,14 +41,15 @@ OR
 - Contain significant changes to the base version of the content (parody, mimic, pastiche).
 European copyright law applies to all uploads.
 You are not allowed to steal other peoples creations this includes but is not limited to "ripping content" from any game or website including ChilloutVR.
-You may never extract other peoples belongings from our games and networks. This includes but is not limited to audio files, assets, avatar and world bundles, textures and more.
+You may never extract other people's belongings from our games and networks. This includes but is not limited to audio files, assets, platform content bundles, textures and more.
 By uploading content you certify that you have the full rights to use the content on our platform.
 You will be responsible for any legal action taken.
 By uploading content to our platform, you allow us to use, store, and process your files and content. You also give us permission to use your content for marketing purposes (e.g. showing off in trailers, videos, streams).
 We will comply with all legal organizations and legal rights management organizations. Content that is known and proven to be stolen or used without permission will be removed without further notice.
 Your content must not contain any kind of malicious components including but not limited to "crashers".
 Your content has to always be tagged properly. This is done to ensure that people can create what they want while still allowing people to disable what they dont want to see. Wrongly tagging your content will result in warnings and / or getting your upload permissions revoked.
-Avatars and worlds with the intent to disturb or annoy other players are forbidden.
+Creating and / or sharing content of any kind with the intent to disturb, annoy or any of the kind is forbidden.
+Sharing content to users without their consent is forbidden, before sharing content as users if they actually want it or make sure they asked you to share it with them.
 You may never label other peoples work as yours. This includes but is not limited to music, images, videos and more.
 
 # Impersonation
@@ -66,7 +68,7 @@ Extracting and releasing any of our code without our allowance is strictly forbi
 Generally, all content creation is permitted as long as the limits enforced by the ABI team are respected. These limits are mostly on the games side. You can find exceptions below. If there are any questions, you are free to contact us at team@abinteractive.net.
 You may never forcefully enable or otherwise gain access to any feature not finished or rolled out using modifications or proxy scrips.
 You may never modify or replace your nameplate. This is done to preserve the value in separate nameplates given out to users that contributed a lot. We tolerate hiding the nameplates or doing minor modifications in explicit roleplay situations or fitting scenarios like horror worlds.
-If you hide your avatar's nameplate entirely, which is allowed, you must tag your avatar with the horror tag.
+If you hide your player's nameplate entirely, which is allowed, you must tag the corresponding avatar with the horror tag.
 You may use all components given in the form of the content creation kit for content creation purposes only. Malicious intent will be punished.
 You may utilize all whitelisted components to their full extent as features not intended for use will be removed by the development team.
 In the case of a legit component configuration causing game breaking issues or crashes to any users clients, you must stop using such content immediately and open a bug report.
