@@ -12,7 +12,7 @@ For missing or unclear points please contact us at team@abinteractive.net - we w
 # Platform requirements
 To play our games and use our services you have to be at least 13 years of age or older.
 You are not allowed to create a new account or presence to bypass bans or sanctions that have been applied to another account you own or have owned before.
-With using our services and / or playing our games you accept the written and non-written community guidelines and acknowledge that the platform moderation team is allowed to take all necessary steps to keep the platform clean and friendly.
+By using our products and services you acknowledge and accept our terms of service, data protection policies, community guidelines and services acts. You furthermore acknowledge and accept that the moderation has every and all rights to suspend or punish your account based on actions that violate written or non-written rules set to protect the users and platform.
 You may never use any spam-mail or temporary mail provider for your accounts. We reserve the right to delete those accounts without any further notice.
 
 # Social Interactions
@@ -22,6 +22,10 @@ Your social interactions must never contain any form of harassment including but
 You are not allowed to organize, found and / or be a part of hate groups or anything similar.
 You are not allowed to evade restrictions or suspensions in any way.
 All kinds of sexual acts in public instances are forbidden and will lead to suspension. Friends of Friends is considered public. Refer to private lobby types instead.
+To use the 18+/NSFW marked parts of our game, you have to be at least 18 years old. If the age of majority in your country of residence is above 18, then you will have to match or exceed the age of majority in your country of residence to be allowed to use the 18+/NSFW/AdultOnly marked parts of / content in our games.
+NSFW content (avatars, worlds, scripts, game-modes and more) as well as events and groups must always do their best to prevent children from seeing / using them. For the case of events and groups, relying on the NSFW access DLC is not enough and further manual checks are required.
+You may never abuse issues / bugs in our systems to bypass NSFW limitations. This includes but is not limited to displaying content in public that is not meant to be displayed in public. (Private NSFW world portals in public worlds, Creating public instances for NSFW events)
+You may never knowingly mark yourself as adult while not having reached the age of majority of your country of residence. Doing so will result in a permanent suspension with no option to appeal. This also applies to the Steam Mature Content Access DLC.
 
 # Uploading and publishing content
 All social interactions guidelines apply to content uploading and publishing as well. Nothing of the above mentioned is allowed to be a part of an avatar, world or game mode. This includes but is not limited to textures, sounds, signs and more.
@@ -33,13 +37,15 @@ OR
 - Contain significant changes to the base version of the content (parody, mimic, pastiche).
 European copyright law applies to all uploads.
 You are not allowed to steal other peoples creations this includes but is not limited to "ripping content" from any game or website including ChilloutVR.
+You may never extract other peoples belongings from our games and networks. This includes but is not limited to audio files, assets, avatar and world bundles, textures and more.
 By uploading content you certify that you have the full rights to use the content on our platform.
 You will be responsible for any legal action taken.
-With uploading content to our platform, you grant us a revocable license to use your content for all business purposes. Your content will still be yours, with deleting it from our platform the license will be revoked and we will not continue to use it and make it unaccessible for all platform members.
-We comply with all DMCA claims or any other form of copyright claims. In case of a copyright claim, your content will be removed and your account will receive a warning.
+By uploading content to our platform, you allow us to use, store, and process your files and content. You also give us permission to use your content for marketing purposes (e.g. showing off in trailers, videos, streams).
+We will comply with all legal organizations and legal rights management organizations. Content that is known and proven to be stolen or used without permission will be removed without further notice.
 Your content must not contain any kind of malicious components including but not limited to "crashers".
 Your content has to always be tagged properly. This is done to ensure that people can create what they want while still allowing people to disable what they dont want to see. Wrongly tagging your content will result in warnings and / or getting your upload permissions revoked.
 Avatars and worlds with the intent to disturb or annoy other players are forbidden.
+You may never label other peoples work as yours. This includes but is not limited to music, images, videos and more.
 
 # Impersonation
 You may never falsely claim to be a part of the Alpha Blend Interactive team, an ABI partner or be of any affiliation with ABI.
@@ -62,6 +68,8 @@ You may use all components given in the form of the content creation kit for con
 You may utilize all whitelisted components to their full extent as features not intended for use will be removed by the development team.
 In the case of a legit component configuration causing game breaking issues or crashes to any users clients, you must stop using such content immediately and open a bug report.
 Knowingly creating content beyond reasonable limits that is negatively impacting another users' client performance is forbidden.
+Bypassing the world publication system by placing portals to non-published worlds in published worlds is forbidden.
+When updating content and adding features requiring a different tag, you are required to change the content tags accordingly. Content tags must match the underlying content at any time.
 
 # Modding our games
 You may only create modifications for the purpose of improving the game. Malicious mods are not permitted and will be punished in any case we deem it necessary to take action on.
