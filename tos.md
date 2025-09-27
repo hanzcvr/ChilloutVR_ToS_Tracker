@@ -33,7 +33,7 @@ You may only access adult-only and explicit content within the game if you have 
 You may never gain access to [adult-only/explicit](content-classification.md) parts of the game if you have not met the requirement defined in 2.6. Doing so may result in a permanent suspension with no option to appeal. This also applies to the Steam Mature Content Access DLC.
 Individuals or groups hosting any [adult-only/explicit](content-classification.md) events are required to verify the age of all parties involved before allowing them to participate. Failure to verify the age of members, or take appropriate action in cases where falsified information has been provided, may lead to the host/group owner and/or the non-verified user being permanently suspended.
 You may never bypass mature content limitations in any way whatsoever.
-Uploaded content may never contain any CSAM.
+Uploaded content may never contain any Child Sexual Abuse material.
 You may never play any form of [adult-only/explicit](content-classification.md) material on a video player in an instance considered to be public.
 You may never play disturbing videos, including but not limited to gore and cruelty on a video player.
 You may never encourage, organize, or participate in actions intended to target, harass, or ostracize another user. This includes, but is not limited to; the creation, distribution, or promotion of so-called "witch hunts", "blacklists", "ban-on-sight lists", or similar efforts to incite hostility or coordinated negative treatment against a user.
