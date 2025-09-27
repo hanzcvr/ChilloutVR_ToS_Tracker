@@ -26,6 +26,8 @@ To use the 18+/NSFW marked parts of our game, you have to be at least 18 years o
 NSFW content (avatars, worlds, scripts, game-modes and more) as well as events and groups must always do their best to prevent children from seeing / using them. For the case of events and groups, relying on the NSFW access DLC is not enough and further manual checks are required.
 You may never abuse issues / bugs in our systems to bypass NSFW limitations. This includes but is not limited to displaying content in public that is not meant to be displayed in public. (Private NSFW world portals in public worlds, Creating public instances for NSFW events)
 You may never knowingly mark yourself as adult while not having reached the age of majority of your country of residence. Doing so will result in a permanent suspension with no option to appeal. This also applies to the Steam Mature Content Access DLC.
+Uploaded content may never contain NSFW materials or references to underaged characters independent of if they are fictional or real. Canonical age (e.g. 9000 year old girl) does not count to invalidate this rule.
+Adult-Only events must be moderated by the event host or event moderators. Event moderators have to ensure that no person under the corresponding age of majority is able to attend.
 
 # Uploading and publishing content
 All social interactions guidelines apply to content uploading and publishing as well. Nothing of the above mentioned is allowed to be a part of an avatar, world or game mode. This includes but is not limited to textures, sounds, signs and more.
