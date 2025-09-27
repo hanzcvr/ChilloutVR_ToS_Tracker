@@ -1,114 +1,164 @@
 # Rules, guidelines & ToS
-With registering an account in our community hub and / or playing our games you acknowledge and accept the followingly stated rules and guidelines to their fullest.
-We reserve full rights to include minor changes to the terms of service without requiring any sort of announcement.
-Bigger changes to the terms of service will be announced and users will be required to accept the changes in order to continue to use our services.
+Every user signing up for and using our services is required to understand, accept, and agree to the latest version of our Terms of Service. If the terms change, you will be prompted to accept the new version before regaining access to our platform.
+We reserve the right to slightly update wording and correct mistakes without requiring re-acceptance of the terms.
+Current Version: 2025-V7
+Updated: 15.09.2025
 
 # Alpha Blend Interactive Terms of Service
+# ChilloutVR Terms of Service / Terms of Usage
 
 # Introduction
-The community guidelines apply to any and all services around the platform including our Discord server, the homepage, the community hub, the games and all other applications using our API and / or services.
-To use our services you have to be at least 13 years old. Accounts created or used by users under the age of 13 will be suspended without any warning.
-We also use a simple rule if something is obviously nothing you should do, do not do it. "Common sense".
-For missing or unclear points please contact us at team@abinteractive.net - we will answer.
+The community guidelines apply to any and all services around the platform, including our Discord server, the homepage, the community hub, the game and all other applications using our API and / or services.
+To use our services, you must be at least 13 years of age. Accounts created or used by users under the age of 13 will be suspended without any warning.
+We consider "Public", "Group Public", "Friends of Group" and "Friends of Friends" to be public instance types.
+"Group Members Only" instances are considered public if the group join privacy is set to "Everyone can join".
+All other instance types are considered private instances.
+For moderation inquiries or ToS questions, reach out to moderation@chilloutvr.net.
+For general support requests, technical issues, or any other inquiries, reach out to team@chilloutvr.net.
 
 # Platform requirements
-To play our games and use our services you have to be at least 13 years of age or older.
-You are not allowed to create a new account or presence to bypass bans or sanctions that have been applied to another account you own or have owned before.
-By using our products and services you acknowledge and accept our terms of service, data protection policies, community guidelines and services acts. You furthermore acknowledge and accept that the moderation has every and all rights to suspend or punish your account based on actions that violate written or non-written rules set to protect the users and platform.
-You may never use any spam-mail or temporary mail provider for your accounts. We reserve the right to delete those accounts without any further notice.
+# The Platform
+To play ChilloutVR and/or use related services, you must be at least 13 years of age or older.
+Ban evasion is not permitted. You may appeal your bans using the above-mentioned support contact or - if available - on the community hub. Any ban evasion, regardless of the ban duration or time of account creation, will result in a permanent ban of all accounts involved without appeal.
+In order to protect the safety, integrity, and functionality of the platform and its users, our moderation and security teams reserve the right to take appropriate action - including account suspension - even in cases where no explicit rule has been violated, but user behavior poses a risk to the community or the platform’s operation.
+Usage of temporary mail accounts is not permitted. Any account registered under a trashmail/throwaway email or temporary account will be permanently suspended or deleted without any notice.
+Profile pictures must always be safe for work (not contain explicit or adult-only references or material).
 
 # Social Interactions
-Your social interactions of any kind must never contain any form of hate speech including but not limited to language, symbols and actions.
-Your social interactions must never contain any form of discrimination against other people this includes but is not limited to spiritual beliefs, genders, sexual orientation or any other personally identifying factor.
-Your social interactions must never contain any form of harassment including but not limited to knowingly false-reporting community members and approaching community members with the intent to harass, disturb, upset or insult.
-You are not allowed to organize, found and / or be a part of hate groups or anything similar.
-You are not allowed to evade restrictions or suspensions in any way.
-All kinds of sexual acts in public instances are forbidden and will lead to suspension. Friends of Friends is considered public. Refer to private lobby types instead.
-To use the 18+/NSFW marked parts of our game, you have to be at least 18 years old. If the age of majority in your country of residence is above 18, then you will have to match or exceed the age of majority in your country of residence to be allowed to use the 18+/NSFW/AdultOnly marked parts of / content in our games.
-NSFW content (their creators), groups, organizations, events or any of the kind are required to use their resources in order to prevent children from seeing / using / attending them. For the case of events and groups, relying on the NSFW access DLC is not enough, and further manual checks are required.
-You may never abuse issues / bugs in our systems to bypass NSFW limitations. This includes but is not limited to displaying content in public that is not meant to be displayed in public. (Private NSFW world portals in public worlds, Creating public instances for NSFW events)
-You may never knowingly mark yourself as adult while not having reached the age of majority of your country of residence. Doing so will result in a permanent suspension with no option to appeal. This also applies to the Steam Mature Content Access DLC.
-Uploaded content may never contain NSFW materials or references to underaged characters (characters under the age of majority) independent of if they are fictional or real. Canonical age (e.g. 9000 year old girl) does not count to invalidate this rule.
-Adult-Only events must be moderated by the event host or event moderators. Event moderators have to ensure that no person under the corresponding age of majority is able to attend.
+You may never expose any other user to any sort of hate speech, harassment or disrespectful behavior, regardless of the form of exposure.
+You may never expose any other user to any sort of discrimination, including but not limited to spiritual beliefs, genders, sexual orientation or any other personally identifying factors.
+You may never approach another user with the intent to disturb, insult, annoy or upset.
+You may never organize, run, manage or be involved with hate groups in any way whatsoever.
+You may never expose any user under the age of 18 or the age of majority (outlined in §2.6) to any sort of adult-only or explicit content, regardless of instance type.
+Adult-only activities and/or wearing [adult-only/explicit](content-classification.md) clothing is only permitted in private instance types. Please ensure that your avatar has appropriate default options if you wish to use it in public instance types.
+You may only access adult-only and explicit content within the game if you have reached the age of majority according to your jurisdiction and are at least 18 years old. If you are 18 years old but are not legally allowed to access the content based on your jurisdiction, we would still consider you not permitted to access it.
+You may never gain access to [adult-only/explicit](content-classification.md) parts of the game if you have not met the requirement defined in 2.6. Doing so may result in a permanent suspension with no option to appeal. This also applies to the Steam Mature Content Access DLC.
+Individuals or groups hosting any [adult-only/explicit](content-classification.md) events are required to verify the age of all parties involved before allowing them to participate. Failure to verify the age of members, or take appropriate action in cases where falsified information has been provided, may lead to the host/group owner and/or the non-verified user being permanently suspended.
+You may never bypass mature content limitations in any way whatsoever.
+Uploaded content may never contain [adult-only/explicit](content-classification.md) materials referencing underaged characters (canonically, realistically or visually under 18 years of age).
+You may never play any form of [adult-only/explicit](content-classification.md) material on a video player in an instance considered to be public.
+You may never play disturbing videos, including but not limited to gore and cruelty on a video player.
+You may never encourage, organize, or participate in actions intended to target, harass, or ostracize another user. This includes, but is not limited to; the creation, distribution, or promotion of so-called "witch hunts", "blacklists", "ban-on-sight lists", or similar efforts to incite hostility or coordinated negative treatment against a user.
 
 # Uploading and publishing content
-All social interactions guidelines apply to content uploading and publishing as well. Nothing of the above mentioned is allowed to be a part of an avatar, world or game mode. This includes but is not limited to textures, sounds, signs and more.
-All content you upload to our platform and / or games must be
+# Creating, Uploading and Publishing Content
+When creating content for our platform - regardless of content type - all rules regarding social interactions (§2.X) also apply.
+All content you upload to ChilloutVR must apply to one of the following:
 - Entirely created by you
-OR
 - Licensed to you with the permission of sub-licensing the content
-OR
 - Contain significant changes to the base version of the content (parody, mimic, pastiche).
-European copyright law applies to all uploads.
-You are not allowed to steal other peoples creations this includes but is not limited to "ripping content" from any game or website including ChilloutVR.
-You may never extract other people's belongings from our games and networks. This includes but is not limited to audio files, assets, platform content bundles, textures and more.
-By uploading content you certify that you have the full rights to use the content on our platform.
-You will be responsible for any legal action taken.
+German and European copyright law applies to all uploaded content, regardless of your location of residence.
+You may never upload content without explicit permission, ownership, or a license.
+Any sort of theft, including but not limited to theft of registered intellectual property or content (including "ripping"), is forbidden. This explicitly includes content from any source, including ChilloutVR itself.
 By uploading content to our platform, you allow us to use, store, and process your files and content. You also give us permission to use your content for marketing purposes (e.g. showing off in trailers, videos, streams).
-We will comply with all legal organizations and legal rights management organizations. Content that is known and proven to be stolen or used without permission will be removed without further notice.
-Your content must not contain any kind of malicious components including but not limited to "crashers".
-Your content has to always be tagged properly. This is done to ensure that people can create what they want while still allowing people to disable what they dont want to see. Wrongly tagging your content will result in warnings and / or getting your upload permissions revoked.
-Creating and / or sharing content of any kind with the intent to disturb, annoy or any of the kind is forbidden.
-You may never label other peoples work as yours. This includes but is not limited to music, images, videos and more.
+We will communicate with all legal bodies raising copyright claims for any content uploaded to our platform.
+This includes but is not limited to take-down requests from private organizations, government bodies and law firms on behalf of a proven rights holder, given satisfactory evidence is provided.
+You may never upload or use any sort of malicious content, including but not limited to intentionally poor-performing content or content intended to "crash" or otherwise break the functionality of the game for yourself or other players.
+If such content pertaining to §5.6 is unknowingly created and uploaded to the platform without ill intent, you must immediately cease usage of the content and report the method of creation and any related information if possible.
+You may never knowingly omit applicable tags when uploading content to the platform. Content tags are a crucial instrument for our content filtering system. Moderation may issue warnings for mistagging or correct tags on behalf of the users if necessary.
+When updating content and adding features requiring a different tag, you are required to change the content tags accordingly. Content tags must match the underlying content at any time.
+You may never create, share or publish content with the intent to disturb, annoy or upset.
+You may never share [adult-only/explicit](content-classification.md) content to (or create such for) users under the appropriate age for [adult-only/explicit](content-classification.md) content to be seen/used as outlined in §2.6 and §2.6.1.
+You may never modify or replace your nameplate or any of its core features and information with props or avatars, including imitation of the default nameplate with features that are omitted or potentially misconstrued as representing official ranks provided by the ChilloutVR team.
+If your avatar or prop hides your nameplate entirely, you must add the "horror" tag to the corresponding avatar or prop.
+Worlds may use built-in tools for content creation to create custom nameplates so long as they do not imitate official ChilloutVR team ranks
+All public content thumbnails must properly represent the content. Further updates and revisions to public content that change its appearance should keep the thumbnail up-to-date.
+Content thumbnail images must always be safe for work (not contain explicit or adult-only references or material) for public avatars.
 
 # Impersonation
-You may never falsely claim to be a part of the Alpha Blend Interactive team, an ABI partner or be of any affiliation with ABI.
-You may never pretend to be a member (of any rank or role) of a group you are not a part of.
-You may never pretend to be friends with someone you are not friends with.
-You may never pretend to be someone you are not. This includes but is not limited to other users, competitors, musicians, streamers, youtubers or any other of the kind.
+You may never falsely claim to be affiliated with the ChilloutVR team.
+You may never falsely claim to have contributed to ChilloutVR as a platform.
+You may never falsely claim to be involved with any group or organization you are not affiliated with.
+You may never falsely claim to be friends with someone you are not affiliated with.
+You may never falsely claim to be someone you are not. This includes but is not limited to other users, competitors, celebrities, influencers, and any other individuals or groups.
+All provisions of §3 apply equally to claims made about other users.
 
 # Usage of our products and services
-You may never use bugs, exploits or any other kind of security breach to harm other player in the game. All known issues regarding security have to be reported immediately. Not doing so will result in a permanent ban.
-You are not allowed to create and / or use any form of cheat, crack bot or exploit any security breach or bug within our api, game client or content creation kit.
-You may never upload files or stream data containing malicious harmful code or viruses to our services.
-Extracting and releasing any of our code without our allowance is strictly forbidden and will be considered theft.
-
-# Platform content creation
-Generally, all content creation is permitted as long as the limits enforced by the ABI team are respected. These limits are mostly on the games side. You can find exceptions below. If there are any questions, you are free to contact us at team@abinteractive.net.
-You may never forcefully enable or otherwise gain access to any feature not finished or rolled out using modifications or proxy scrips.
-You may never modify or replace your nameplate. This is done to preserve the value in separate nameplates given out to users that contributed a lot. We tolerate hiding the nameplates or doing minor modifications in explicit roleplay situations or fitting scenarios like horror worlds.
-If you hide your player's nameplate entirely, which is allowed, you must tag the corresponding avatar with the horror tag.
-You may use all components given in the form of the content creation kit for content creation purposes only. Malicious intent will be punished.
-You may utilize all whitelisted components to their full extent as features not intended for use will be removed by the development team.
-In the case of a legit component configuration causing game breaking issues or crashes to any users clients, you must stop using such content immediately and open a bug report.
-Knowingly creating content beyond reasonable limits that is negatively impacting another users' client performance is forbidden.
-Bypassing the world publication system by placing static portals (portals that are part of the world) to non-published worlds in published worlds is forbidden. This excludes rewards for completing challenges and portals to development versions of that specific world. This rule is meant to affect different worlds, by different authors and prevent actual misuse to bypass the publication system.
-When updating content and adding features requiring a different tag, you are required to change the content tags accordingly. Content tags must match the underlying content at any time.
+# Usage of our Products and Services
+You may never abuse any sort of system malfunction, exploit, loophole or bug in any of our products or services.
+All security and integrity concerns must immediately be reported via email.
+You are not allowed to create, run or use any form of cheat, crack, bot or anything similar for ChilloutVR.
+You may never send malicious data, including but not limited to viruses or malware, to any of our network infrastructure.
+Extracting, using and/or publishing any of our code is strictly forbidden and will be considered theft.
+You may never use code obtained by decompiling our products to create derivative work or other products from it without explicit written permission. We do not allow any of our work to be implemented in external third-party products.
+Exceptions are permitted so long as extracted code is necessary for modification and patching of our product, specifically ChilloutVR, that adhere to all terms outlined in section Modding Our Game.
 
 # Modding our games
-You may only create modifications for the purpose of improving the game. Malicious mods are not permitted and will be punished in any case we deem it necessary to take action on.
-If you plan on publishing your mods to the workshop you must release the mods sourcecode to the public (for example by using github). This does not affect mods hosted on third party platforms directly, that are not released to the workshop.
-Publishing obfuscated mods to the workshop is not allowed.
-If you have to overwrite, alter or include base game scripts with your mod, you have to request appropriate permission before releasing it to the public. In this case we also require you to include a disclaimer that the base code of the game is owned by us. This may be a simple one-liner.
-When releasing mods to the public, it is required to state, that the mod authors and modification are in no affiliation with ABI and not supported by ABI.
-You may never create cheats / hacks to bypass limitations or gain an unfair advantage in any game mode or game world.
-When installing mods, the liability for damage and harm caused by such is on the user. ABI will not be liable for any harm, damage or any other negative impact caused by modifications loaded from sources other than the official workshop.
+# Modding Our Game
+Mods knowingly degrading the experience for other players as well as those intentionally replacing or removing core features of the base game are not permitted.
+When overriding parts of the game's code, you must include a disclaimer in the released source code or description of your mod indicating that parts of the modification's code may be/are owned by the ChilloutVR team if applicable.
+When releasing mods to the public - regardless if released with or without publicly available source code - it is mandatory to state that the modification is not affiliated, approved, or verified by the ChilloutVR team in any way whatsoever.
+You may never use or create a modification with the purpose of bypassing limitations of worlds, instances, or game modes currently used. This includes, but is not limited to, bypassing game rules like flight and props.
+You may never use or create modifications with the intent or functionality to cheat in game worlds or game modes.
+By installing a mod loader and/or corresponding modifications or plugins, you acknowledge that the ChilloutVR team is not responsible for any harm or damage caused by the modifications or the mod loader installed by the user.
 
 # Third party applications or sites
-Third party applications or sites that use or reference our services are permitted but required to implement the following text somewhere:
+# Third-party Applications and Sites
+Third-party applications or sites that use or reference our services are permitted, but are also required to implement the following text somewhere:
 
 # For websites
-"This website is not run by or affiliated with Alpha Blend Interactive in any way."
+# For Websites
+"This website is not run by or affiliated with ChilloutVR or the ChilloutVR team in any way."
 
 # For applications
-"This application is not created by or affiliated with Alpha Blend Interactive in any way."
+# For Applications
+"This application is not created by or affiliated with ChilloutVR or the ChilloutVR team in any way."
 
 # For communities
-"This community is not created by or affiliated with Alpha Blend Interactive in any way."
+# For Communities
+"This community is not created by or affiliated with ChilloutVR or the ChilloutVR team in any way."
 
 # For mods
-"This modification is unofficial and not supported by Alpha Blend Interactive. Using this modification might cause issues with performance, security or stability of the games."
+# For Mods
+"This modification is unofficial and not supported by ChilloutVR or the ChilloutVR team. Using this modification might cause issues with performance, security or stability of the game."
 
 # Account management
-Account bans can only be appealed by using the support system in the community hub linked above. Messages on the Discord or e-mails for unban requests will be ignored.
-In accordance with the EU GDPR regulations we offer you collected data packages and account deletions. This can be requested in your account settings on the community hub.
-In the case of an account deletion, the suspension remains active and as such will lead to newly created accounts being suspended for ban evasion. Account deletion is not your ticket to bypass suspensions.
-We do not allow indefinite appeals. Appeal a ban only if you are very certain that the suspension is unjustified as we reserve the right to deny appeals at any time without any need to include a reasoning.
-The team of Alpha Blend Interactive has the permission to terminate accounts without rule violations to protect other players if a danger for other players is possible.
-All moderative suspensions are displayed on a users public profile and are visible to all users logged in.
+# Account Management
+You may appeal applicable suspensions by sending us an email at the moderation email at the top of the terms, or - if available - by using the appeal functionality in the community hub.
+In accordance with GDPR regulations, we offer you collected data packages and account deletions. This can be requested in your account settings on the community hub.
+You may never delete your account to bypass or circumvent a suspension. Suspensions remain active even after the account was deleted and creating a new account is considered ban evasion and as such remains a bannable offense.
+You may appeal your suspensions. If your appeal is rejected, you can not appeal the same suspension again.
+All moderation bans are displayed on a user's public profile and are visible to all users logged in.
+Moderation warnings are not publicly visible.
+The ChilloutVR team does not offer refunds for any purchased product or subscription payments in the case of account deletion or suspension.
 
 # Commercial usage
-All kinds of commercial usage of our platform or services require explicit permission granted by ABI.
-Hosting commercial events requires cooperative contracts with ABI along with appropriate revenue share.
-Commercial usage of our products and services does not exclude any other platform limitation or rule.
-In order to request permission to use our products and services commercially, mail us at team@abinteractive.net, and we will get back to you as soon as we can.
+# Commercial Usage
+You may never commercialize your use of the platform by monetizing your content or yourself by offering products, services or selling access to content or events without explicit written permission from ChilloutVR or the ChilloutVR team if you exceed a yearly threshold of €2.500,00 in gross revenue. If your gross revenue exceeds the mentioned threshold, you can request permission by mailing us at the address above.
+Any sort of corporate usage of the platform requires an enterprise license agreement to be formed. In this case, you must contact us after evaluating the platform but before starting any sort of business operation on it.
+As a commercial user, you must take care of tax withholding and paying tax in the involved countries on your own behalf. The ChilloutVR team is not responsible for your taxation, but may request evidence of proper taxation as a part of approval.
+In order to request permission to use our products and services commercially, email us at the general support mail address provided at the top of the terms.
+
+# Closing notes
+ChilloutVR is developed, managed, and operated by a company based in Germany. As such, we are subject to and operate in accordance with the legal frameworks of the Federal Republic of Germany and the European Union.
+In particular, we comply with the following regulations:
+
+# General Data Protection Regulation (GDPR - Datenschutz-Grundverordnung):
+We are committed to ensuring that all personal data is handled lawfully, fairly, and transparently. Our systems and processes are designed to protect user privacy in accordance with the GDPR.
+[General Data Protection Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
+
+# Network Enforcement Act (Netzwerkdurchsetzungsgesetz - NetzDG):
+As a platform that hosts user-generated content, we implement reporting mechanisms and moderation processes in compliance with the NetzDG. We take the prevention and removal of unlawful content seriously and act within the legally defined timeframes.
+[Netzwerkdurchsetzungsgesetz](https://www.gesetze-im-internet.de/netzdg/)
+An official English translation is not currently provided by the government. The German version is legally binding.
+
+# Interstate Treaty on the Protection of Minors in the Media (Jugendmedienschutz-Staatsvertrag - JMStV):
+We adhere to the JMStV to ensure appropriate youth protection standards on our platform. This includes age rating systems, restricted content controls, and the implementation of protective measures for minors.
+[Jugendmedienschutz-Staatsvertrag](https://www.die-medienanstalten.de/service/rechtsgrundlagen/jugendmedienschutz-staatsvertrag/)
+An official English translation is not currently provided by the government. The German version is legally binding.
+
+# German Copyright Law (Urheberrechtsgesetz - UrhG):
+All content uploaded or created by users is subject to German copyright law. Users are responsible for ensuring that they have the necessary rights to any content they publish. We reserve the right to remove content that violates copyright or intellectual property laws.
+[Urheberrechtsgesetz](https://www.gesetze-im-internet.de/englisch_urhg/index.html)
+
+# German Civil Code (Bürgerliches Gesetzbuch - BGB)
+Our Terms of Service and contractual relationships are governed by German civil law, in particular the sections concerning General Terms and Conditions (AGB).
+[German Civil Code](https://www.gesetze-im-internet.de/englisch_bgb)
+
+# German Criminal Code (Bürgerliches Gesetzbuch - BGB)
+Our Terms of Service and contractual relationships are governed by German civil law, in particular the sections concerning General Terms and Conditions (AGB).
+[German Criminal Code](https://www.gesetze-im-internet.de/englisch_stgb)
+
+# Full Legal Reference
+For full access to all applicable German laws and regulations, please refer to the official legal portal maintained by the Federal Ministry of Justice:
+[Gesetze im Internet - Official Portal of German Law](https://www.gesetze-im-internet.de)
