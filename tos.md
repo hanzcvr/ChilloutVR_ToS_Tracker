@@ -4,8 +4,8 @@ With registering an account in our community hub and / or playing our games you 
 # Alpha Blend Interactive Community Guidelines
 
 # Introduction
-The community guidelines apply to everything around the platform including our Discord server, the homepage, the community hub, the games and all other applications using our API and / or services.
-To use our services you have to be at least 13 years old.
+The community guidelines apply to any and all services around the platform including our Discord server, the homepage, the community hub, the games and all other applications using our API and / or services.
+To use our services you have to be at least 13 years old. Accounts created or used by users under the age of 13 will be suspended without any warning.
 We also use a simple rule if something is obviously nothing you should do, do not do it. "Common sense".
 For missing or unclear points please contact us at team@abinteractive.net - we will answer.
 
@@ -13,22 +13,24 @@ For missing or unclear points please contact us at team@abinteractive.net - we w
 To play our games and use our services you have to be at least 13 years of age or older.
 You are not allowed to create a new account or presence to bypass bans or sanctions that have been applied to another account you own or have owned before.
 With using our services and / or playing our games you accept the written and non-written community guidelines and acknowledge that the platform moderation team is allowed to take all necessary steps to keep the platform clean and friendly.
+You may never use any spam-mail or temporary mail provider for your accounts. We reserve the right to delete those accounts without any further notice.
 
 # Social Interactions
-Your social interactions of any kind must never contain any form of hatespeech including but not limited to language, symbols and actions.
+Your social interactions of any kind must never contain any form of hate speech including but not limited to language, symbols and actions.
 Your social interactions must never contain any form of discrimination against other people this includes but is not limited to spiritual beliefs, genders, sexual orientation or any other personally identifying factor.
 Your social interactions must never contain any form of harassment including but not limited to knowingly false-reporting community members and approaching community members with the intent to harass, disturb, upset or insult.
 You are not allowed to organize, found and / or be a part of hate groups or anything similar.
-You are not allowed to evade bans or sanctions in any way.
+You are not allowed to evade restrictions or suspensions in any way.
+All kinds of sexual acts in public instances are forbidden and will lead to suspension. Friends of Friends is considered public. Refer to private lobby types instead.
 
 # Uploading and publishing content
 All social interactions guidelines apply to content uploading and publishing as well. Nothing of the above mentioned is allowed to be a part of an avatar, world or game mode. This includes but is not limited to textures, sounds, signs and more.
 All content you upload to our platform and / or games must be
 - Entirely created by you
 OR
-- Licensed to you
+- Licensed to you with the permission of sub-licensing the content
 OR
-- Contain significant changes to the base version of the content.
+- Contain significant changes to the base version of the content (parody, mimic, pastiche).
 European copyright law applies to all uploads.
 You are not allowed to steal other peoples creations this includes but is not limited to "ripping content" from any game or website including ChilloutVR.
 By uploading content you certify that you have the full rights to use the content on our platform.
@@ -40,20 +42,34 @@ Your content has to always be tagged properly. This is done to ensure that peopl
 Avatars and worlds with the intent to disturb or annoy other players are forbidden.
 
 # Impersonation
-You may never falsely claim to be a part of Alpha Blend Interactive or being employed by us.
-You may never pretend to be a member or leader of any group, squad, community or anything else you are not a part of.
+You may never falsely claim to be a part of the Alpha Blend Interactive team, an ABI partner or be of any affiliation with ABI.
+You may never pretend to be a member (of any rank or role) of a group you are not a part of.
 You may never pretend to be friends with someone you are not friends with.
-You may never pretend to be someone you are not. This includes but is not limited to other users, competitors, musicians, streamers, youtubers etc.
+You may never pretend to be someone you are not. This includes but is not limited to other users, competitors, musicians, streamers, youtubers or any other of the kind.
 
 # Usage of our products and services
 You may never use bugs, exploits or any other kind of security breach to harm other player in the game. All known issues regarding security have to be reported immediately. Not doing so will result in a permanent ban.
-We allow modding of our games and access to our API as long as the guidelines are met. Malicious modifications or game changing modifications without permission are a violation of the terms of service and strictly forbidden.
-Your code has to be secure for the end users. Trying to publish code that offends the end users security in ChilloutVR, a third party application related to ChilloutVR or anything of the same kind will get your account restricted and in some cases have legal consequences.
-You are responsible for the API usage. Overly using the API will be counted as abusive and the account will be locked without further notice.
 You are not allowed to create and / or use any form of cheat, crack bot or exploit any security breach or bug within our api, game client or content creation kit.
-You may never upload files containing malicious harmful code or viruses to our services.
-Spreading modified versions of our code without our allowance is strictly forbidden.
-You may not reverse engineer our games.
+You may never upload files or stream data containing malicious harmful code or viruses to our services.
+Extracting and releasing any of our code without our allowance is strictly forbidden and will be considered theft.
+
+# Platform content creation
+Generally, all content creation is permitted as long as the limits enforced by the ABI team are respected. These limits are mostly on the games side. You can find exceptions below. If there are any questions, you are free to contact us at team@abinteractive.net.
+You may never forcefully enable or otherwise gain access to any feature not finished or rolled out using modifications or proxy scrips.
+You may never modify or replace your nameplate. This is done to preserve the value in separate nameplates given out to users that contributed a lot. We tolerate hiding the nameplates or doing minor modifications in explicit roleplay situations or fitting scenarios like horror worlds.
+If you hide your avatars nameplate entirely, which is allowed, you must tag your avatar with the horror tag.
+You may use all components given in the form of the content creation kit for content creation purposes only. Malicious intent will be punished.
+You may utilize all whitelisted components to their full extent as features not intended for use will be removed by the development team.
+In the case of a legit component configuration causing game breaking issues or crashes to any users clients, you must stop using such content immediately and open a bug report.
+Knowingly creating content beyond reasonable limits that is negatively impacting another users' client performance is forbidden.
+
+# Modding our games
+You may only create modifications for the purpose of improving the game. Malicious mods are not permitted and will be punished in any case we deem it necessary to take action on.
+If you plan on publishing your mods (or release them to the CVR Workshop once available) you must release the mods sourcecode to the public (for example by using github).
+Publishing obfuscated mods is not allowed.
+If you have to overwrite, alter or include base game scripts with your mod, you have to request appropriate permission before releasing it to the public. In this case we also require you to include a disclaimer that the base code of the game is owned by us. This may be a simple one-liner.
+When releasing mods to the public, it is required to state, that the mod authors are in no affiliation with ABI.
+You may never create cheats / hacks to bypass limitations or gain an unfair advantage in any game mode or game world.
 
 # Third party applications or sites
 Third party applications or sites that use our services are allowed but always have to implement the following text somewhere:
@@ -69,9 +85,8 @@ Third party applications or sites that use our services are allowed but always h
 
 # Account management
 Account bans can only be appealed by using the support system in the community hub linked above. Messages on the Discord or e-mails for unban requests will be ignored.
-All appeals will be checked by 2 team members that did not issue the warning or ban before. This is done to ensure that a case can be double checked against the community guidelines.
-In accordance with the EU GDPR regulations we offer you collected data packages and account deletions. This can be requested in the community hub.
-Account deletions do not delete account bans. Creating a new account in this case will still count as ban evasion and is a bannable offense.
-You can only appeal a ban once. One second chance is granted in most cases. If you appeal a ban and your appeal is denied, you will not be able to appeal again.
+In accordance with the EU GDPR regulations we offer you collected data packages and account deletions. This can be requested in your account settings on the community hub.
+In the case of an account deletion, the suspension remains active and as such will lead to newly created accounts being suspended for ban evasion. Account deletion is not your ticket to bypass suspensions.
+We do not allow indefinite appeals. Appeal a ban only if you are very certain that the suspension is unjustified as we reserve the right to deny appeals at any time without any need to include a reasoning.
 The team of Alpha Blend Interactive has the permission to terminate accounts without rule violations to protect other players if a danger for other players is possible.
-All sanctions, warnings and bans are shown on the public community profiles.
+All moderative suspensions are displayed on a users public profile and are visible to all users logged in.
