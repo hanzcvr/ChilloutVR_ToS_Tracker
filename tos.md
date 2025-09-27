@@ -66,7 +66,7 @@ Extracting and releasing any of our code without our allowance is strictly forbi
 Generally, all content creation is permitted as long as the limits enforced by the ABI team are respected. These limits are mostly on the games side. You can find exceptions below. If there are any questions, you are free to contact us at team@abinteractive.net.
 You may never forcefully enable or otherwise gain access to any feature not finished or rolled out using modifications or proxy scrips.
 You may never modify or replace your nameplate. This is done to preserve the value in separate nameplates given out to users that contributed a lot. We tolerate hiding the nameplates or doing minor modifications in explicit roleplay situations or fitting scenarios like horror worlds.
-If you hide your avatars nameplate entirely, which is allowed, you must tag your avatar with the horror tag.
+If you hide your avatar's nameplate entirely, which is allowed, you must tag your avatar with the horror tag.
 You may use all components given in the form of the content creation kit for content creation purposes only. Malicious intent will be punished.
 You may utilize all whitelisted components to their full extent as features not intended for use will be removed by the development team.
 In the case of a legit component configuration causing game breaking issues or crashes to any users clients, you must stop using such content immediately and open a bug report.
@@ -79,7 +79,7 @@ You may only create modifications for the purpose of improving the game. Malicio
 If you plan on publishing your mods to the workshop you must release the mods sourcecode to the public (for example by using github). This does not affect mods hosted on third party platforms directly, that are not released to the workshop.
 Publishing obfuscated mods to the workshop is not allowed.
 If you have to overwrite, alter or include base game scripts with your mod, you have to request appropriate permission before releasing it to the public. In this case we also require you to include a disclaimer that the base code of the game is owned by us. This may be a simple one-liner.
-When releasing mods to the public, it is required to state, that the mod authors and modification are in no affiliation with ABI and not suppoorted by ABI.
+When releasing mods to the public, it is required to state, that the mod authors and modification are in no affiliation with ABI and not supported by ABI.
 You may never create cheats / hacks to bypass limitations or gain an unfair advantage in any game mode or game world.
 When installing mods, the liability for damage and harm caused by such is on the user. ABI will not be liable for any harm, damage or any other negative impact caused by modifications loaded from sources other than the official workshop.
 
@@ -96,7 +96,7 @@ Third party applications or sites that use or reference our services are permitt
 "This community is not created by or affiliated with Alpha Blend Interactive in any way."
 
 # For mods
-"This modification is inofficial and not supported by Alpha Blend Interactive. Using this modification might cause issues with performance, security or stability of the games."
+"This modification is unofficial and not supported by Alpha Blend Interactive. Using this modification might cause issues with performance, security or stability of the games."
 
 # Account management
 Account bans can only be appealed by using the support system in the community hub linked above. Messages on the Discord or e-mails for unban requests will be ignored.
@@ -110,4 +110,4 @@ All moderative suspensions are displayed on a users public profile and are visib
 All kinds of commercial usage of our platform or services require explicit permission granted by ABI.
 Hosting commercial events requires cooperative contracts with ABI along with appropriate revenue share.
 Commercial usage of our products and services does not exclude any other platform limitation or rule.
-In order to request permission to use our products and services commercially, mail us at team@abinteractive.net and we will get back to you as soon as we can.
+In order to request permission to use our products and services commercially, mail us at team@abinteractive.net, and we will get back to you as soon as we can.
