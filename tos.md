@@ -1,7 +1,8 @@
 # Rules, guidelines & ToS
 With registering an account in our community hub and / or playing our games you acknowledge and accept the followingly stated rules and guidelines to their fullest.
+We reserve full right to update the terms of service at any time without any need for notification.
 
-# Alpha Blend Interactive Community Guidelines
+# Alpha Blend Interactive Terms of Service
 
 # Introduction
 The community guidelines apply to any and all services around the platform including our Discord server, the homepage, the community hub, the games and all other applications using our API and / or services.
@@ -70,28 +71,32 @@ You may use all components given in the form of the content creation kit for con
 You may utilize all whitelisted components to their full extent as features not intended for use will be removed by the development team.
 In the case of a legit component configuration causing game breaking issues or crashes to any users clients, you must stop using such content immediately and open a bug report.
 Knowingly creating content beyond reasonable limits that is negatively impacting another users' client performance is forbidden.
-Bypassing the world publication system by placing portals to non-published worlds in published worlds is forbidden.
+Bypassing the world publication system by placing static portals (portals that are part of the world) to non-published worlds in published worlds is forbidden. This excludes rewards for completing challenges and portals to development versions of that specific world. This rule is meant to affect different worlds, by different authors and prevent actual misuse to bypass the publication system.
 When updating content and adding features requiring a different tag, you are required to change the content tags accordingly. Content tags must match the underlying content at any time.
 
 # Modding our games
 You may only create modifications for the purpose of improving the game. Malicious mods are not permitted and will be punished in any case we deem it necessary to take action on.
-If you plan on publishing your mods (or release them to the CVR Workshop once available) you must release the mods sourcecode to the public (for example by using github).
-Publishing obfuscated mods is not allowed.
+If you plan on publishing your mods to the workshop you must release the mods sourcecode to the public (for example by using github). This does not affect mods hosted on third party platforms directly, that are not released to the workshop.
+Publishing obfuscated mods to the workshop is not allowed.
 If you have to overwrite, alter or include base game scripts with your mod, you have to request appropriate permission before releasing it to the public. In this case we also require you to include a disclaimer that the base code of the game is owned by us. This may be a simple one-liner.
-When releasing mods to the public, it is required to state, that the mod authors are in no affiliation with ABI.
+When releasing mods to the public, it is required to state, that the mod authors and modification are in no affiliation with ABI and not suppoorted by ABI.
 You may never create cheats / hacks to bypass limitations or gain an unfair advantage in any game mode or game world.
+When installing mods, the liability for damage and harm caused by such is on the user. ABI will not be liable for any harm, damage or any other negative impact caused by modifications loaded from sources other than the official workshop.
 
 # Third party applications or sites
-Third party applications or sites that use our services are allowed but always have to implement the following text somewhere:
+Third party applications or sites that use or reference our services are permitted but required to implement the following text somewhere:
 
 # For websites
-"This website is not run by or affiliated with Alpha Blend Interactive (abinteractive.net) in any way."
+"This website is not run by or affiliated with Alpha Blend Interactive in any way."
 
 # For applications
-"This application is not created by or affiliated with Alpha Blend Interactive (abinteractive.net) in any way."
+"This application is not created by or affiliated with Alpha Blend Interactive in any way."
 
 # For communities
-"This community is not created by or affiliated with Alpha Blend Interactive (abinteractive.net) in any way."
+"This community is not created by or affiliated with Alpha Blend Interactive in any way."
+
+# For mods
+"This modification is inofficial and not supported by Alpha Blend Interactive. Using this modification might cause issues with performance, security or stability of the games."
 
 # Account management
 Account bans can only be appealed by using the support system in the community hub linked above. Messages on the Discord or e-mails for unban requests will be ignored.
@@ -100,3 +105,9 @@ In the case of an account deletion, the suspension remains active and as such wi
 We do not allow indefinite appeals. Appeal a ban only if you are very certain that the suspension is unjustified as we reserve the right to deny appeals at any time without any need to include a reasoning.
 The team of Alpha Blend Interactive has the permission to terminate accounts without rule violations to protect other players if a danger for other players is possible.
 All moderative suspensions are displayed on a users public profile and are visible to all users logged in.
+
+# Commercial usage
+All kinds of commercial usage of our platform or services require explicit permission granted by ABI.
+Hosting commercial events requires cooperative contracts with ABI along with appropriate revenue share.
+Commercial usage of our products and services does not exclude any other platform limitation or rule.
+In order to request permission to use our products and services commercially, mail us at team@abinteractive.net and we will get back to you as soon as we can.
