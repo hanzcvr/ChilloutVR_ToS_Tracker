@@ -69,6 +69,7 @@ Including but not limited to:
 - Injuries
 - Damaging or
 - Destroying an object/character
+- Usage of firearms
 
 # Gore
 If your content contains gore of any kind.
