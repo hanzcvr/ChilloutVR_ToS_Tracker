@@ -49,7 +49,6 @@ We will comply with all legal organizations and legal rights management organiza
 Your content must not contain any kind of malicious components including but not limited to "crashers".
 Your content has to always be tagged properly. This is done to ensure that people can create what they want while still allowing people to disable what they dont want to see. Wrongly tagging your content will result in warnings and / or getting your upload permissions revoked.
 Creating and / or sharing content of any kind with the intent to disturb, annoy or any of the kind is forbidden.
-Sharing content to users without their consent is forbidden, before sharing content as users if they actually want it or make sure they asked you to share it with them.
 You may never label other peoples work as yours. This includes but is not limited to music, images, videos and more.
 
 # Impersonation
