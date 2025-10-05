@@ -21,7 +21,7 @@ Suggestive content is not barred from public instance types.
 
 # Avatar Appearance
 Revealing Attire (covers intimate areas):
-Low-cut tops, mini-skirts, bikinis
+Low-cut tops, micro-skirts, bikinis
 Pants/undergarments accentuating buttocks
 Form-fitting Clothing (non-accentuating):
 Bodysuits, leotards, lingerie
