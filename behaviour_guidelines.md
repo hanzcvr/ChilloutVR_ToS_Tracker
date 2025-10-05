@@ -39,5 +39,4 @@ Requesting others participate in fetish scenarios
 Using platform features to simulate fetish activities
 Creating scenarios where others become unwilling participants
 Broadcasting or demonstrating fetish behaviours in public spaces
-Exception: Age-play related attire (pacifiers, diapers, etc.) constitutes 'passive exhibitionism' and is prohibited in public instances. Standard fetish clothing such as collars and harnesses worn as fashion are permitted.
 Fetish discussions should follow appropriate social context; casual conversation among willing participants is permitted, while unsolicited fetish topics directed at strangers is prohibited.
